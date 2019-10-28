@@ -1,0 +1,8 @@
+.userList{
+  margin:10px 0px;
+  padding:3px 40px;
+  font-size: 1.3em;
+  list-style-type: none;
+  color:#666666;
+  cursor: default;
+}

@@ -1,0 +1,17 @@
+.form input{
+  font-size: 1.1em;
+  padding: 3px;
+  width: 250px;
+  border-radius: 5px;
+}
+.form_label{
+  float: left;
+  display: inline-block;
+  width: 170px;
+  padding-right: 20px;
+  font-size: 1.5em;
+  font-family: 'Indie Flower', cursive; 
+  font-weight: 700; 
+  color:DarkRed;
+  text-align: right;
+}

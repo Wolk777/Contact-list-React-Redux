@@ -1,0 +1,15 @@
+.BtnAdd{
+  display: block;
+  width: 250px;
+  padding: 5px;
+  margin:30px auto;
+  text-align: center;
+  font-size: 1.4em;
+  font-family: 'Indie Flower', cursive; 
+  font-weight: 700; 
+  color:DarkRed;
+  background-color:#FFB8A2;
+  border:2px solid #666666;
+  border-radius:3px;
+  cursor: pointer;
+}

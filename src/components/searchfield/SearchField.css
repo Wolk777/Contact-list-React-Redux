@@ -1,0 +1,31 @@
+.containerSearch{
+  margin-top: 30px;
+  padding: 15px;
+  padding-bottom: 5px;
+  min-height: 100px;
+}
+.inputSearch{
+  width: 270px;
+  margin-left: 25px;
+  font-size: 1.3em;
+  padding: 7px;
+  border:2px solid #666666;
+  border-right: none;
+  border-radius:5px 0 0 5px;
+}
+.containerSearch button{
+  font-size: 1.4em;
+  font-family: 'Indie Flower', cursive; 
+  font-weight: 700; 
+  color:DarkRed;
+  padding: 4px 28px 1px 28px;
+  border:2px solid #666666;
+  border-radius:0 5px 5px 0;
+  background-color:#A5FF76;
+  cursor: pointer;
+}
+.containerSearch p {
+  font-size: 1.1em;
+  position: relative;
+  padding-left: 40px;
+}
